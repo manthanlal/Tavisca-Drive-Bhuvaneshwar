@@ -1,3 +1,20 @@
+/*
+No string library are to be used to solve this question.
+Q. Check if the string provided by user is a palindrome.
+
+Sample Input:
+abrarba
+
+Sample Output:
+String is Palindrome
+
+Sample Input:
+magic
+
+Sample Output:
+String is Not Palindrome
+*/
+
 import java.util.*;
 
 class Palindrome {
