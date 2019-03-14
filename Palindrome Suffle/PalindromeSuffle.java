@@ -1,6 +1,11 @@
+/*
+No String libraries are to be used to silve this question.
+Q. Take an input string and shuffle to form a palindrome.
+    (The given string is definitely an anagram of a palindrome)
+*/
 import java.util.*;
 
-class PalindromeSuffle {
+class PalindromeShuffle {
     public static void main(String[] args) {
         System.out.print("Enter the string : ");
         Scanner in = new Scanner(System.in);
